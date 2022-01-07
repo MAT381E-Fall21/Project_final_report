@@ -1,27 +1,34 @@
-# Project Final Documents
+# Getting ready for finals
 
-These repo consists of two sub-directories such as:
+1. Select a time slot for your final oral presentation at https://docs.google.com/spreadsheets/d/1HrApQ2KHJcj4GnpPXSNZbmDIMrM7V-XsLmsNoIIyYE8/edit#gid=796203822.
 
-1. Final report: Submit all source files (including `.Rmd` files, final output can be a `.html` or `.pdf` file) by **June 21, 2021, at 23:59**.
-2. Oral Presentation: Submit all source files (including `.Rmd` files, final output can be a `.html` file) **before your presentation**.
+2. This repository consists of two sub-directories such as:
 
-3. Please provide url address of your project deployed at GitHub pages
-in this Google Sheet form: https://docs.google.com/spreadsheets/d/1EewQ9CTcfGLwx7KgA21DpinNJZH4lgDd5L1lJlvwCaU/edit#gid=0
-4. Select a time slot for your presentation (either **June 26 or June 27, 2021**) and type your team name in the same Google Sheet above. 
-   Be ready on time!..
-5. **Oral presentation Zoom meeting details will be available around June 24-25, 2021**.   
+  1. Final report and
+  2. Oral Presentation.
+  
+3. Submit all source files (including `.Rmd` files) just before
+your oral presentation (January 29, 2022 or January 30, 2022).
+
+5. Do not forget to submit your peer evaluation forms which require different GitHub submission as an individual study.
+
+5. Make this repository public and deploy your final report at GitHub pages (you have to do
+required actions before publishing).
+
+6. Please provide url address of your final project deployed at GitHub pages
+in this Google Sheet form: https://docs.google.com/spreadsheets/d/1HrApQ2KHJcj4GnpPXSNZbmDIMrM7V-XsLmsNoIIyYE8/edit#gid=0
+
+7. The address should be similar to this: https://github.com/MAT381E-Fall21/final-project_teamname.
+
+8. **Oral presentation Zoom meeting details will available on Ninova as time approaches**.   
 
 ---
 
 # **Office Hours**
 
-- May 31, 2021 between 20:30-22:30.   
-- June 7, 2021 between 20:30-22:30.   
-- June 14, 2021 between 20:30-22:30.   
-- June 21, 2021 between 20:30-22:30.     
+If you need any questions for your final report, send me an email or try to set up an online meeting at the following Zoom link (keep this link). 
 
 # **Zoom meeting link details**:
-
 
 [Join Zoom Meeting for office hours](https://itu-edu-tr.zoom.us/j/99088059412?pwd=bTNZcElreWd3Z1MyS0hvVnpLOEdrQT09)
 
