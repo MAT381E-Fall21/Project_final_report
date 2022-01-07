@@ -22,11 +22,7 @@ in this Google Sheet form: https://docs.google.com/spreadsheets/d/1HrApQ2KHJcj4G
 
 8. **Oral presentation Zoom meeting details will available on Ninova as time approaches**.   
 
----
-
-# **Office Hours**
-
-If you need any questions for your final report, send me an email or try to set up an online meeting at the following Zoom link (keep this link). 
+9. **Office Hours**: If you need any questions for your final report, send me an email or try to set up an online meeting at the following Zoom link (keep this link). 
 
 # **Zoom meeting link details**:
 
