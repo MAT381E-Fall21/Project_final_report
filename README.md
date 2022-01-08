@@ -20,7 +20,7 @@ in this [Google Sheet form](https://docs.google.com/spreadsheets/d/1HrApQ2KHJcj4
 
 7. The address should be similar to this: https://github.com/MAT381E-Fall21/final-project_teamname.
 
-8. **Oral presentation Zoom meeting details will available on Ninova as time approaches**.   
+8. **Oral presentation Zoom meeting details are available on Ninova**.   
 
 9. **Office Hours**: If you need any questions for your final report, send me an email or try to set up an online meeting at the following Zoom link (keep this link). 
 
