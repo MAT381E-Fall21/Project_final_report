@@ -1,8 +1,8 @@
 # Getting ready for finals
 
-1. Select a time slot for your final oral presentation at https://docs.google.com/spreadsheets/d/1HrApQ2KHJcj4GnpPXSNZbmDIMrM7V-XsLmsNoIIyYE8/edit#gid=796203822.
+1. Select a time slot for your final oral presentation at [Presentation Time slot](https://docs.google.com/spreadsheets/d/1HrApQ2KHJcj4GnpPXSNZbmDIMrM7V-XsLmsNoIIyYE8/edit#gid=796203822).
 
-2. This repository consists of two sub-directories such as:
+2. This repository consists of two main `R Markdown` files such as:
 
   1. Final report and
   2. Oral Presentation.
