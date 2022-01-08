@@ -34,3 +34,5 @@ in this [Google Sheet form](https://docs.google.com/spreadsheets/d/1HrApQ2KHJcj4
 Meeting ID: 990 8805 9412  
 Passcode: 396830
 
+Note: On January 26-27-28, I will be in an in-person workshop between 12:00-17:00 at Bogazici University.
+
