@@ -14,7 +14,7 @@
 4. Make final project repository public and deploy your final report at GitHub pages (you have to do
 required actions before publishing).
 
-5. Under **About** section (top-right) of your projects, on the **topics** bar type your data source and most commonly used packages such as 
+5. Under **About** section (top-right) of your repo, on the **topics** bar type, your data source and most commonly used packages such as 
 "UNDP, ggplot2" so that other people can find your repo on GitHub.
 
 6. Please provide url address of your final project deployed at GitHub pages
